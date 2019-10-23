@@ -23,6 +23,8 @@ The aproach for linking Sheets to GitHub was influenced by [Gabriel Krieshok](ht
 
 Thanks to [Dirk Uys](https://github.com/dirkcuys) for technical input
 
+Please contact us at info @ wakoma.co if you would like something removed.
+
 
 CC-BY-SA-4.0
 
