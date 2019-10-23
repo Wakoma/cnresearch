@@ -296,7 +296,7 @@ CMS
 Box
 ----------------------------------------------------
 - [Forban](http://www.foo.be/forban/) — a simple link-local opportunistic p2p free software (or how to share files with your local neighbors)
-- [Internet-in-a-Box](http://schoolserver.org/, http://wiki.laptop.org/go/IIAB/FAQ) — 
+- [Internet-in-a-Box](http://schoolserver.org/), http://wiki.laptop.org/go/IIAB/FAQ) — 
 - [LibraryBox](http://librarybox.us/) — Portable local server that offers up documents.
 - [MedBox](http://medbox.iiab.me/home/) — Medical Version of IIAB
 - [PirateBox](https://piratebox.cc/) — Portable local server built on the LibraryBox.
