@@ -78,7 +78,7 @@ Consultancies
 ----------------------------------------------------
 
 
-Corporations
+Private Sector
 ----------------------------------------------------
 - [Wakoma Incorporated](http://www.wakoma.co/) — Wakoma Incorporated is a capacity development and consulting firm empowering public, private, and civil-society sector stakeholders working with technology in emerging markets.  Supporting Community Networks globally.
 
