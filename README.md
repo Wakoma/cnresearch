@@ -19,7 +19,7 @@ We also have a list of CN-related individuals, but will create an opt-in Sheet/F
 
 ## Credits
 
-The aproach for linking Sheets to GitHub was influenced by [Gabriel Krieshok](https://github.com/gabrielkrieshok) and his incredible [ICT4D Guide](https://github.com/gabrielkrieshok/ict4dguide).
+The approach for linking Sheets to GitHub was influenced by [Gabriel Krieshok](https://github.com/gabrielkrieshok) and his incredible [ICT4D Guide](https://github.com/gabrielkrieshok/ict4dguide).
 
 Thanks to [Dirk Uys](https://github.com/dirkcuys) for technical input
 
