@@ -32,17 +32,17 @@ CC-BY-SA-4.0
 
 # ToC
 
-* [Resources](https://github.com/Wakoma/cnresearch/blob/master/README.md#resources)
-* [Organizations](https://github.com/Wakoma/cnresearch/blob/master/README.md#organizations)
-* [Hardware](https://github.com/Wakoma/cnresearch/blob/master/README.md#hardware)
-* [Apps/Services/Software](https://github.com/Wakoma/cnresearch/blob/master/README.md#appsservices)
+* [Resources](https://github.com/Wakoma/cnresearch#resources)
+* [Organizations](https://github.com/Wakoma/cnresearch#organizations)
+* [Hardware](https://github.com/Wakoma/cnresearch#hardware)
+* [Apps/Services/Software](https://github.com/Wakoma/cnresearch#appsservices)
 --------------
 
 
 
 Resources
 ==========================
-[^ back to top ^](https://github.com/Wakoma/cnresearch/blob/master/README.md#toc)
+[^ back to top ^](https://github.com/Wakoma/cnresearch#toc)
 
 Blogs
 ----------------------------------------------------
@@ -81,7 +81,7 @@ Books
 
 Organizations
 ==========================
-
+[^ back to top ^](https://github.com/Wakoma/cnresearch#toc)
 
 Academic
 ----------------------------------------------------
@@ -172,7 +172,7 @@ ISP
 
 Hardware
 ==========================
-
+[^ back to top ^](https://github.com/Wakoma/cnresearch#toc)
 
 Servers
 ----------------------------------------------------
@@ -209,6 +209,8 @@ IoT
 
 Apps/Services
 ==========================
+[^ back to top ^](https://github.com/Wakoma/cnresearch#toc)
+
 
 Localized Content
 ----------------------------------------------------
