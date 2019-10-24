@@ -42,7 +42,7 @@ CC-BY-SA-4.0
 
 Resources
 ==========================
-[^ back to top ^](https://github.com/Wakoma/cnresearch#toc)
+  **[^ back to top ^](https://github.com/Wakoma/cnresearch#toc)
 
 Blogs
 ----------------------------------------------------
