@@ -55,6 +55,8 @@ Educational Resources
 
 Publications
 ----------------------------------------------------
+- [Global Information Society Watch (GISWatch)](https://www.giswatch.org/community-networks) — The 2018 edition of GISWatch focuses on local access models, specifically, community networks as self-organised, self-managed or locally developed solutions for local access, based on the conviction that one of the keys to affordable access is giving local people the skills and tools to solve their own connectivity challenges.
+
 
 Awesome Lists
 ----------------------------------------------------
