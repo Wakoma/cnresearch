@@ -38,11 +38,11 @@ Resources
 
 Blogs
 ----------------------------------------------------
-
+- [Many Possibilities ](https://manypossibilities.net/) — Steve Song's incredible blog. Posts on Spectrum, TVWS, Net Neutrality, Open Source, Open Content, Open Hardware, Open Innovation, Open Business… the list goes on.
 
 Guides and Platforms
 ----------------------------------------------------
-
+- [OpenTelcomData Spectrum Chart](https://opentelecomdata.org/spectrum-chart/) — rototyping a new comparative visualisation of spectrum assignments around the world
 
 Educational Resources
 ----------------------------------------------------
@@ -87,7 +87,8 @@ Private Sector
 
 Civil Society
 ----------------------------------------------------
-- [Internet Society](https://www.internetsociety.org/issues/community-networks/) — 
+- [Internet Society](https://www.internetsociety.org/issues/community-networks/) —  
+- [Afchix](http://www.afchix.org/about-us/) — AfChix is a network of women in Technology who consider gender diversity in the Computer Science & ICT industry very critical for increased creativity and innovative performance of the industry.
 
 
 Community Networks
