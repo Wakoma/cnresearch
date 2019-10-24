@@ -187,19 +187,42 @@ Servers
 Routers/Firewalls
 ----------------------------------------------------
 - [LibreRouter](https://librerouter.org/) — A high performance multi-radio wireless router targeted at Community Networks needs
-
+- [Netgate SG-1100](https://store.netgate.com/pfSense/SG-1100.aspx) — 159
+- [Netgate SG-3100](https://store.netgate.com/SG-3100.aspx) — 349
+- [Archer C20 ](https://openwrt.org/toh/hwdata/tp-link/tp-link_archer_c20_ac750_v4) — 
+- [MikroTik hEX](https://mikrotik.com/product/RB750Gr3) — 60
+- [MikroTik hEX PoE](https://mikrotik.com/product/RB960PGS) — 79
+- [MikroTik RB2011iL-IN](https://mikrotik.com/product/RB2011iL-IN) — 99
+- [Ubiquiti USG](https://store.ui.com/products/unifi-security-gateway) — 139
+- [Ubiquiti EdgeRouter X]() — 59
+- [Ubiquiti EdgeRouter PoE](https://store.ui.com/collections/routing-switching/products/edgerouter-poe) — 175
+- [Ubiquiti EdgeRouter 4](https://store.ui.com/collections/routing-switching/products/edgerouter-4) — 199
 
 Switches
 ----------------------------------------------------
+- [MikroTik RB260GSP](https://mikrotik.com/product/RB260GSP) — 56
+- [MikroTik CRS112-8G-4S-IN](https://mikrotik.com/product/CRS112-8G-4S-IN#fndtn-gallery) — 139
+- [MikroTik CSS326-24G-2S+RM](https://mikrotik.com/product/CSS326-24G-2SplusRM#fndtn-specifications) — 139
+- [MikroTik CRS112-8P-4S-IN](https://mikrotik.com/product/crs112_8p_4s_in) — 179
+- [Ubiquiti Switch 8 - 60W](https://www.ui.com/unifi-switching/unifi-switch-8/) — 109
+- [Ubiquiti EdgeSwitch 10X](https://store.ui.com/collections/routing-switching/products/edgeswitch-10x-1) — 115
+
 
 Access Points	
 ----------------------------------------------------
+- [Ubiquiti UniFi AC Pro](https://store.ui.com/products/unifi-ac-pro) — 149
+- [Ubiquiti UniFi AC Lite](https://store.ui.com/products/unifi-ac-lite) — 89
+
 
 Antennas	
 ----------------------------------------------------
 
+
+
 NAS/Storage	
 ----------------------------------------------------
+
+
 
 Power/UPC
 ----------------------------------------------------
