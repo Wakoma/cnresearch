@@ -82,6 +82,12 @@ Books
 - [Project Gutenberg](https://www.gutenberg.org) — Project Gutenberg is a library of over 60,000 free eBooks.
 
 
+Forums
+----------------------------------------------------
+- [Community Networks Forums](https://communitynetworks.group/) — Discussion forums on discourse platform. Hosted by APC.
+
+
+
 Organizations
 ==========================
 [^ back to top ^](https://github.com/Wakoma/cnresearch#toc)
