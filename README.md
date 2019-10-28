@@ -69,6 +69,8 @@ Publications
 
 Awesome Lists
 ----------------------------------------------------
+
+- [Awesome Connectivity List](https://github.com/stevesong/awesome-connectivity-info) — Awesome list of connectivity indexes and reports to help you better under who has access to communication infrastructure and on what terms.
 - [Decentralized Awesome List](https://github.com/croqaz/awesome-decentralized) — Awesome distributed, decentralized, p2p apps or tools
 - [P2P Awesome List](https://github.com/kgryte/awesome-peer-to-peer) — A list of peer-to-peer resources.
 - [OwnCloud]() — Predecessor to NextCloud
