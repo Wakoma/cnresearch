@@ -99,6 +99,7 @@ Academic
 
 Consultancies
 ----------------------------------------------------
+- [Where Innovation Serves Humans](http://wish.org.za) — A bottom-up co-creative CN/ISP and infrastructure incubator that has seeded 5 sustainable community networks so far, without any funding. 
 
 
 Private Sector
