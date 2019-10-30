@@ -179,6 +179,9 @@ Community Networks
 ISP
 ----------------------------------------------------
 
+- [Converged Technology Networks](http://www.ctnmw.net) — A small, locally owned WISP in Malawi that uses a combination of low cost network equipment and a homegrown content delivery network to deliver services to homes, schools and SMEs
+
+
 Hardware
 ==========================
 [^ back to top ^](https://github.com/Wakoma/cnresearch#toc)
@@ -330,6 +333,8 @@ Software
 - [OpenStreetMap (OSM)](OpenStreetMap.) — OpenStreetMap.org (OSM) is much like Google Maps, but more democratic and without advertising — anybody can change it, much like Wikipedia only for maps.
 - [SHAREit](https://shareit.en.softonic.com/) — SHAREit lets you transfer files from different devices like phones, tablets, and computers. Using direct Wi-Fi connections
 - [HTTrack Website Copier](https://www.httrack.com) — Save websites for offline viewing.
+- [Anydesk](https://anydesk.com) — Good TeamViewer Alternative. Remote Desktop Software.
+- [TeamViewer](https://www.teamviewer.com) — Remote Desktop Software.
 
 
 VPN
@@ -360,7 +365,7 @@ Box
 - [BeeKee](https://beekee.ch) — Box
 - [eGranary](https://www.widernet.org/eGranary/about) — Expensive offline education server
 - [YUNOhost](https://yunohost.org) — With YunoHost, you can easily manage a server for your friends, association or enterprise.
-
+- [NextCloundPi](https://ownyourbits.com/nextcloudpi) — NextCloudPi is a Nextcloud instance that is preinstalled and preconfigured, and includes a management interface with all the tools you need to self host your private data in a single package.
 
 
 
