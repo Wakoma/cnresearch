@@ -111,6 +111,7 @@ Civil Society
 ----------------------------------------------------
 - [Internet Society](https://www.internetsociety.org/issues/community-networks/) —  
 - [Afchix](http://www.afchix.org/about-us/) — AfChix is a network of women in Technology who consider gender diversity in the Computer Science & ICT industry very critical for increased creativity and innovative performance of the industry.
+- [VPUU](http://vpuu.org.za) — VPUU is an area-based community development organisation that aims at safe, sustainable, integrated communities, citizenship, pride and the improvement of quality of life for residents in their neighbourhoods through a comprehensive range of urban improvements and social interventions.  VPUU has an ICT4D department creating innovative digitial solutions to these ends.
 
 
 Community Networks
