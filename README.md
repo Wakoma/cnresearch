@@ -168,6 +168,7 @@ Community Networks
 - [Red Hook Wifi](http://redhookwifi.org/) — Brooklyn New York
 - [Sarantaporo](http://www.sarantaporo.gr/) — Greece
 - [Toronto Mesh](https://tomesh.net/) — Community Network in TorontoToronto Ontario Canada
+- [V-NET](http://vpuu.org.za/ict4d/v-net-bringing-internet-connectivity-into-low-income-areas/) — A wireless mesh network in Cape Town, South Africa created by VPUU (Violence Prevention through Urban Upgrading).
 - [Village Telco](https://villagetelco.org/) — Johannesburg South Africa
 - [Wasabinet](http://gowasabi.net/) — St. Louis Missouri
 - [Wireless Leiden](http://wirelessleiden.nl) — Leiden The Netherlands
