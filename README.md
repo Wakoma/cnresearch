@@ -51,7 +51,9 @@ Blogs
 
 Guides and Platforms
 ----------------------------------------------------
-- [OpenTelcomData Spectrum Chart](https://opentelecomdata.org/spectrum-chart/) — rototyping a new comparative visualisation of spectrum assignments around the world
+
+- [OpenTelecomData ](https://wiki.opentelecomdata.org/start) — This wiki gathers examples of good practice in transparency in the telecom sector. It also carries country profiles of regulations as they relate to community networks and small scale operators. Click on the links in orange to explore either theme.
+- [OpenTelcomData Spectrum Chart](https://opentelecomdata.org/spectrum-chart/) — Prototyping a new comparative visualisation of spectrum assignments around the world
 
 Educational Resources
 ----------------------------------------------------
