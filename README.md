@@ -89,6 +89,19 @@ Forums
 - [Community Networks Forums](https://communitynetworks.group/) — Discussion forums on discourse platform. Hosted by APC.
 
 
+Videos
+----------------------------------------------------
+
+- [Global Media Policy Seminar Series - Steve Song](https://www.youtube.com/watch?v=ijjYmOYZzWk&t=4244s) — Steve Song discusses 'Rights to the Network: Community Networks and Access to Infrastructure'.
+- [TED Talk - The future of communication in Africa - Steve Song](https://www.youtube.com/watch?v=igyBwtcxY64) — Telecommunication activist Steve Song discusses the vital need for access to communication in order for African nations to be global players, moving toward a democratic and developed world.
+- [LibreRouter: how it works](https://www.youtube.com/watch?v=TiCIdya05OQ) — This video describes how the LibreRouter behaves, its characteristics and basic usage.
+- [Community Networks Video Collection](https://www.youtube.com/user/nicopace/videos) — Great collection of videos from Nico Pace
+- [LibreRouter presentation](https://www.youtube.com/watch?v=8FrEC1hUL6w) — LibreRouter presentation at IGF2018 - DC3 Session
+- [Internet Governance Forum Video Collection](https://www.youtube.com/user/igf/videos) — 
+- [IGF 2018 Recording:  Spectrum for Community Networks - A Must](https://www.youtube.com/watch?v=xym221FB3EE) — IGF 2018 - Day 1 - Salle VII - WS 428 Spectrum for Community Networks - A Must
+- [IGF 2018 Recording:  DC on Community Connectivity](https://www.youtube.com/watch?v=6FOj7-41cYI) — IGF 2018 - Day 1 - Salle VII - DC on Community Connectivity
+
+
 
 Organizations
 ==========================
