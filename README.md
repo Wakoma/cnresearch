@@ -353,6 +353,8 @@ Software
 - [HTTrack Website Copier](https://www.httrack.com) — Save websites for offline viewing.
 - [Anydesk](https://anydesk.com) — Good TeamViewer Alternative. Remote Desktop Software.
 - [TeamViewer](https://www.teamviewer.com) — Remote Desktop Software.
+- [Veyon](https://veyon.io/) — Veyon is a free and Open Source software for computer monitoring and classroom management supporting Linux and Windows.
+- [Epoptes](https://epoptes.org/) — An open source computer lab management and monitoring tool. Only for Linux machines.
 
 
 VPN
